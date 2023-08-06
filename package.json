@@ -1,8 +1,11 @@
 {
-  "name": "@shaheen-karodia/zod-message-bus",
+  "name": "@TFG-Labs/bash-web-search-transformer",
   "version": "0.0.6",
   "description": "",
   "main": "./dist/index.js",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@TFG-Labs"
+  },
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
   "scripts": {
